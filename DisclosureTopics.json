@@ -1,0 +1,37 @@
+{
+  "DisclosureTopics": [
+    {
+      "PutRequest": {
+        "Item": {
+          "topicCode": { "S": "CG-AA-250a" },
+          "topic": { "S": "Management of Chemicals in Products" },
+          "desciption": {
+            "S": "The introduction of the Consumer Product Safety Improvement Act in the U.S. and the Registration, Evaluation, Authorization, and Restriction of Chemicals legislation in the EU demonstrates increasing regulatory and stakeholder concern surrounding the use of harmful or potentially harmful substances in consumer products, including apparel, accessories, and footwear. Finished apparel and footwear products have been found to contain traces of chemicals that have been banned or regulated. Depending on the chemical, the amount present in a product, and the type of exposure that consumers face, specific substances can be carcinogenic, and can disrupt hormone activity in humans and other organisms. Failure to manage this issue may generate additional regulatory oversight and impact a company’s social license to operate. In addition, the presence of harmful chemicals in products can lead to recalls, litigation, and reputational damage. Companies in this industry can work in both the design and manufacturing phases to manage the use of chemicals of concern, develop safe alternatives, and eliminate those that have been banned. Given the industry’s reliance on outsourced manufacturing, this involves proactive partnerships with suppliers. In managing this issue, companies must balance the hazard posed to consumers presented by certain chemicals with the quality of a product and its costs of production."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "topicCode": { "S": "CG-AA-430a" },
+          "topic": { "S": "Environmental Impacts in the Supply Chain" },
+          "description": {
+            "S": "The Apparel Accessories & Footwear industry’s global supply chain contributes significantly to environmental externalities through water consumption and pollution, as well as air pollution. Water pollution results from the discharge of chemicals during water-intensive dyeing and tanning processes, while air pollution stems from the industry’s energy use. These impacts have the potential to damage a company’s reputation and to affect cost structures over time. The scale of this issue has historically been intensified by the fact that the industry relies on manufacturing partners in emerging markets where environmental regulations and oversight are limited. However, enhanced scrutiny on the part of stakeholders and consumers, coupled with the development of more stringent regulation in certain regions, has led companies throughout the industry to work with suppliers to reduce their environmental impact. Apparel, accessories, and footwear companies that leverage their market power to work with suppliers to improve operational efficiencies and resource consumption and limit pollution will be able to mitigate costs associated with increased resource scarcity and regulation. Further, those that engage with suppliers through monitoring, auditing, and strict standards will likely be better positioned to protect shareholder value over the long term."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "topicCode": { "S": "CG-AA-430b" },
+          "topic": { "S": "Labor Conditions in the Supply Chain" },
+          "description": {
+            "S": "The treatment of workers and the protection of worker rights in the Apparel, Accessories, & Footwear industry’s supply chain is of growing concern among consumers, regulators, and leading companies. Critical aspects of this issue include employee health and safety, fair pay, child labor, and forced labor. Although companies continue to improve performance on this issue, the industry’s reliance on a multitiered system of suppliers, subcontractors, labor recruitment firms, and part-time workers makes it difficult to manage. Because companies in the industry typically contract with suppliers in countries with the lowest direct costs, the industry’s products are often manufactured in countries that have limited regulations or enforcement protecting workers. This dynamic can heighten a company’s exposure to reputational risks and impacts on short- and long-term costs and sales. Such effects can arise from increasing regulation and its enforcement in response to high-profile safety or labor incidents, production disruptions due to strikes and other labor-related work stoppages, or through a shift in demand away from companies associated with such incidents. Companies with strong supply chain standards, monitoring, and engagement with suppliers to address labor concerns may therefore be better positioned to protect shareholder value over the long term."
+          }
+        }
+      }
+    }
+  ]
+}
