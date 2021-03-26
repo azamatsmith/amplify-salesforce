@@ -15,7 +15,7 @@ function AuthSuccess({ location }) {
     Auth.currentSession()
       .then((session) => {
         const token = session.idToken.jwtToken;
-        console.log('setting token');
+        console.log('setting token', { session });
         // This is the line that allows the GraphQL endpoint to use the
         // jwt.
         Cache.setItem('federatedInfo', { token });
