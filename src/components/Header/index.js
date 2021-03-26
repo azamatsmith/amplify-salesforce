@@ -15,6 +15,7 @@ function Header() {
   const links = [
     { name: 'Home', to: '/' },
     { name: 'Todos', to: '/todos' },
+    { name: 'Form', to: '/form' },
   ];
   return (
     <StyledHeader>

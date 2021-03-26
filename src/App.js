@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import AuthSuccess from './pages/AuthSuccess';
 import Todos from './pages/Todos';
 import NotFound from './pages/NotFound';
+import Form from './pages/Form';
 import './App.css';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Home path="/" />
         <AuthSuccess path="auth-success" />
         <Todos path="todos" />
+        <Form path="form" />
         <NotFound default />
       </Router>
     </div>
